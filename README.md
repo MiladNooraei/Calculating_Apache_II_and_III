@@ -12,4 +12,10 @@ The Acute Physiology and Chronic Health Evaluation (APACHE II) scoring system is
 
 **Due to privacy considerations, the patient identifiers "Patient_Identifier" and "National_Code" have been anonymized and replaced with the numerical value "0".**
 
+## Input and Output
+
+The provided Excel file comprises four distinct sheets, each corresponding to patients affiliated with four disparate hospital institutions. The resultant Excel file mirrors the structure of the input file, retaining the four original sheets and their respective columns. In addition to replicating the existing content, the output file introduces a pair of supplementary columns denoted as "Final APACHE II Score" and "Estimated Mortality" for every individual patient entry.
+
+To visualize a histogram, it is imperative to execute the provided code.
+
 For more information about scoring system, please visit [msdmanuals](https://www.msdmanuals.com/professional/multimedia/table/acute-physiologic-assessment-and-chronic-health-evaluation-apache-ii-scoring-system).
