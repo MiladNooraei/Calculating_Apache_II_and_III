@@ -10,4 +10,6 @@ The ICU Severity Scoring System - APACHE II is a comprehensive and well-document
 
 The Acute Physiology and Chronic Health Evaluation (APACHE II) scoring system is a widely recognized method used to quantitatively assess the severity of a patient's illness upon admission to the ICU. By considering various physiological measurements, laboratory values, age, and chronic health conditions, the APACHE II score provides an objective assessment of the patient's condition and helps predict their risk of mortality.
 
-For more information about scoring system, please visit [www.msdmanuals.com](https://www.msdmanuals.com/professional/multimedia/table/acute-physiologic-assessment-and-chronic-health-evaluation-apache-ii-scoring-system).
+**Due to privacy considerations, the patient identifiers "Patient_Identifier" and "National_Code" have been anonymized and replaced with the numerical value "0".**
+
+For more information about scoring system, please visit [msdmanuals](https://www.msdmanuals.com/professional/multimedia/table/acute-physiologic-assessment-and-chronic-health-evaluation-apache-ii-scoring-system).
