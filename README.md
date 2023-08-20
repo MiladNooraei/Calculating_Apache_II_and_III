@@ -16,6 +16,6 @@ The Acute Physiology and Chronic Health Evaluation (APACHE II) scoring system is
 
 ## Input and Output
 
-The provided Excel file comprises four distinct sheets, each corresponding to patients affiliated with four disparate hospital institutions. The resultant Excel file mirrors the structure of the input file, retaining the four original sheets and their respective columns. In addition to replicating the existing content, the output file introduces a pair of supplementary columns denoted as "Final APACHE II Score" and "Estimated Mortality" for every individual patient entry.
+The provided Excel file comprises four distinct sheets, each corresponding to patients affiliated with four disparate hospital institutions. The resultant Excel file mirrors the structure of the input file, retaining the four original sheets and their respective columns. In addition to replicating the existing content, the output file introduces a pair of supplementary columns denoted as final "APACHE II Score" and "Estimated Mortality" for every individual patient entry.
 
 To visualize a histogram, it is imperative to execute the provided code.
